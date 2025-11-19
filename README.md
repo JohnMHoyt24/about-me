@@ -1,4 +1,6 @@
-Hello! My name is John.
+## Welcome! 👋
+
+My name is John.
 I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to as many users as possible.
 
 ## 🧑‍💻 Developer Experience
@@ -17,4 +19,4 @@ I'm a passionate developer with a diverse background in web development, problem
 
 ---
 
-Thank you for visiting! Feel free to explore my repositories and reach out with any collaboration ideas.
+Thank you for visiting! Feel free to explore my repositories and reach out with any collaboration ideas. 🙏
